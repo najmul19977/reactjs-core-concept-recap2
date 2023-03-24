@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.district{
+  background-color: lightblue;
+  margin: 20px;
+  padding: 5px;
+  border-radius: 20px;
+}
+.user-info{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border: 2px solid goldenrod;
+  border-radius: 20px;
+  background-color: bisque;
+  margin: 20px;
+}
+.user-main{
+  display: grid;
+  grid-template-columns: repeat((3,ifr));
+  margin: 20px;
+  border-radius: 20px;
+  background-color: rgb(221, 221, 177);
+}
